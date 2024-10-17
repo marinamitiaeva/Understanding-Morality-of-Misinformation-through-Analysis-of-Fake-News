@@ -1,7 +1,10 @@
-# Analysis of Moral Values in Fake News
+# Understanding Morality of Misinformation through Analysis of Fake News
 
 ## Goal:
 Our research aims to uncover patterns in the use of moral language within fake news.
+
+## Published Paper:
+[Understanding Morality of Misinformation through Analysis of Fake News](https://aisel.aisnet.org/amcis2024/ict_global/ict_global/2/)
 
 ## Data:
 In our study we analyze [FakeNewsNet dataset](https://github.com/KaiDMML/FakeNewsNet). News articles are categorized into 'fake' and 'real'. The categories 'poltics' and 'entertainments' are based on the source of fact-checking websites: PolitiFact and GossipCop. PolitiFact primarily focuses on data related to political campaigns, while GossipCop concentrates on celebrity relationship gossip.
